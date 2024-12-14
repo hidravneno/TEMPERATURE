@@ -1,0 +1,43 @@
+/* Estilo para el fondo y el cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    padding-top: 225px; 
+    text-align: center;
+}
+
+/* Estilo para el título */
+h1 {
+    font-size: 2.5em;
+    color: #007BFF;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el botón */
+#convertButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#convertButton:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para el párrafo del resultado */
+#result {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #333;
+}

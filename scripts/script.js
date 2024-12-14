@@ -65,27 +65,3 @@ otherVariable = 100;
 //console.log(aVariable, otherVariable);
 //const weekDays = 7;
 
-//history
-const personaje1 = "Juan";
-const personaje2 = "María";
-let lugar = "la playa";
-let objeto = "una sombrilla";
-let acción1 = "jugando al voleibol";
-let acción2 = "comiendo helado";
-
-let historia = `${personaje1} y ${personaje2} fueron a ${lugar} para pasar un día divertido. 
-Allí, estaban ${acción1} cuando de repente, encontraron ${objeto}. 
-Decidieron usarla para protegerse del sol y continuaron ${acción2}.`;
-
-console.log(historia);
-
-let lugar2 = "la montaña";
-let objeto2 = "una tienda de campaña";
-let acción3 = "haciendo senderismo";
-let acción4 = "asando malvaviscos";
-
-let historia2 = `${personaje1} y ${personaje2} decidieron ir a ${lugar2} para una nueva aventura. 
-Mientras estaban ${acción3}, encontraron ${objeto2}. 
-Decidieron quedarse allí y ${acción4}.`;
-
-console.log(historia2);
