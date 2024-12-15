@@ -1,4 +1,4 @@
-/*console.log("function.js");
+console.log("function.js");
 
 //creating the function
 function greet(name) {
@@ -87,7 +87,7 @@ console.log(
 );
 document.write(
   "<p>The result of subtraction " + num1 + " and " + num2 + " is: <p>" + finalResult
-);*/
+);
 
 // Linking a function to a button:)
 function addProduct() {
