@@ -8,7 +8,7 @@ function greet(name) {
 console.log(greet("Luis"));
 
 // Anonymous Functions
-let greetTwo = function (name) {
+let greetTwo = function (name) {x
   return "Hello World from an Anonymous Function! and Hello " + name;
 };
 
